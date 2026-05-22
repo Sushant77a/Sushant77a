@@ -3,7 +3,7 @@
 🧑‍💻 Developer in the making — currently deep in **C# and .NET**
 🌱 Building real projects while learning the .NET ecosystem
 🚀 Passionate about clean code, problem solving & software architecture
-📍 Gurugram, India
+📍 India
 
 ---
 
@@ -19,9 +19,17 @@
 
 ## 📊 GitHub Stats
 
-![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=sushant77a&show_icons=true&theme=tokyonight&hide_border=true)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sushant77a&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sushant77a&layout=compact&theme=tokyonight&hide_border=true)
+
+
+
+  
+  
+  
+
+
+
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sushant77a&theme=tokyonight&hide_border=true)
 
