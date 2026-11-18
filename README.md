@@ -96,7 +96,13 @@ A full-stack application for managing todos, journals, schedules, finances, goal
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sushant77a&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=sushant77a&theme=tokyonight&hide_border=true&border_radius=12&ring=512BD4&fire=FF8C42&currStreakLabel=7AA2F7" alt="GitHub contribution streak" />
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/sushant77a/sushant77a/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" />
+
+<br/><br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sushant77a&theme=tokyonight" alt="GitHub profile summary" />
 
