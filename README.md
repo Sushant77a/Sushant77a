@@ -1,47 +1,24 @@
-# Hi, I'm Sushant 👋
+# Sushant
 
-🧑‍💻 Developer in the making — currently deep in **C# and .NET**
-🌱 Building real projects while learning the .NET ecosystem
-🚀 Passionate about clean code, problem solving & software architecture
+### Software Engineer · C# / .NET
+
+Software engineer with **2 years of professional experience** building with **C# and .NET**. I focus on backend development and APIs, with an emphasis on clean code, practical problem solving, and maintainable software.
+
 📍 India
 
 ---
 
-## 🛠️ Tech Stack
+## Core Stack
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## GitHub
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sushant77a&theme=tokyonight)
 
-
-
-
-  
-  
-  
-
-
-
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=sushant77a&theme=tokyonight&hide_border=true)
-
----
-
-## 🌱 Currently Learning
-
-- ASP.NET Core & Web APIs
-- Entity Framework Core
-- LINQ & async/await patterns
-- Clean Architecture principles
-
----
-
-*"Code is like humor. When you have to explain it, it's bad." — Cory House*
