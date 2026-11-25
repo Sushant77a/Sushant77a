@@ -22,10 +22,8 @@ I build reliable APIs and practical full-stack applications with C#, ASP.NET Cor
 ## Featured Project
 
 <a href="https://github.com/Sushant77a/TimeIsNow">
-  <img width="100%" alt="TimeIsNow" src="https://opengraph.githubassets.com/1/Sushant77a/TimeIsNow" />
+  <img width="100%" alt="TimeIsNow — Personal Life Dashboard & Assistant" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F766E,100:22D3EE&height=170&section=header&text=TimeIsNow&fontSize=52&fontColor=F8FAFC&fontAlignY=40&desc=Personal%20Life%20Dashboard%20%26%20Assistant&descAlignY=72&descSize=18" />
 </a>
-
-### [TimeIsNow](https://github.com/Sushant77a/TimeIsNow) · Personal Life Dashboard & Assistant
 
 A full-stack application for managing todos, journals, schedules, finances, goals, habits, practices, daily entries, and notes.
 
@@ -52,31 +50,25 @@ A full-stack application for managing todos, journals, schedules, finances, goal
 
 </details>
 
-[![View Project](https://img.shields.io/badge/View_Project-0F766E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sushant77a/TimeIsNow)
-[![Read Documentation](https://img.shields.io/badge/Read_Documentation-0891B2?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/Sushant77a/TimeIsNow/blob/main/README.md)
+[![View Project](https://img.shields.io/badge/View_Project-0F766E?style=flat-square&logo=github&logoColor=white)](https://github.com/Sushant77a/TimeIsNow)
+[![Read Documentation](https://img.shields.io/badge/Read_Documentation-0891B2?style=flat-square&logo=readthedocs&logoColor=white)](https://github.com/Sushant77a/TimeIsNow/blob/main/README.md)
 
 ---
 
 ## Backend & Full-Stack Toolkit
 
-### Core
+<div align="center">
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+**Core**  
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=.net&logoColor=white)
 
-### Data
+**Data**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square&logo=.net&logoColor=white)
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+**Frontend & Tools**  
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 
-### Frontend & Tools
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+</div>
 
 ---
 
@@ -94,15 +86,7 @@ A full-stack application for managing todos, journals, schedules, finances, goal
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=sushant77a&theme=tokyonight&hide_border=true&border_radius=12&ring=22D3EE&fire=F59E0B&currStreakLabel=22D3EE" alt="GitHub contribution streak" />
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/sushant77a/sushant77a/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" />
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sushant77a&theme=tokyonight" alt="GitHub profile summary" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sushant77a&theme=github_dark" alt="GitHub profile summary" />
 
 </div>
 
@@ -113,7 +97,7 @@ A full-stack application for managing todos, journals, schedules, finances, goal
 **Building dependable backend systems, one production-ready decision at a time.**
 
 <a href="https://github.com/Sushant77a?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore_my_work-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
+  <img src="https://img.shields.io/badge/Explore_my_work-0F766E?style=flat-square&logo=github&logoColor=white" alt="Explore repositories" />
 </a>
 
 </div>
