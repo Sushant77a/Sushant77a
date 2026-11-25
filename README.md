@@ -5,11 +5,9 @@
 
 <div align="center">
 
-# Sushant
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0F766E,100:22D3EE&height=240&section=header&text=Sushant&fontSize=70&fontColor=F8FAFC&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20C%23%20%2F%20.NET&descAlignY=55&descSize=20" alt="Sushant — Software Engineer" />
 
-### Software Engineer · C# / .NET
-
-[![Profile Views](https://komarev.com/ghpvc/?username=sushant77a&style=flat-square&color=512BD4)](https://github.com/sushant77a)
+[![Profile Views](https://komarev.com/ghpvc/?username=sushant77a&style=flat-square&color=0891B2)](https://github.com/sushant77a)
 
 **Backend-first engineer** with **2 years of professional experience**, experienced in taking applications from database design to production.
 
@@ -54,8 +52,8 @@ A full-stack application for managing todos, journals, schedules, finances, goal
 
 </details>
 
-[![View Project](https://img.shields.io/badge/View_Project-512BD4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sushant77a/TimeIsNow)
-[![Read Documentation](https://img.shields.io/badge/Read_Documentation-0E76A8?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/Sushant77a/TimeIsNow/blob/main/README.md)
+[![View Project](https://img.shields.io/badge/View_Project-0F766E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sushant77a/TimeIsNow)
+[![Read Documentation](https://img.shields.io/badge/Read_Documentation-0891B2?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/Sushant77a/TimeIsNow/blob/main/README.md)
 
 ---
 
@@ -96,7 +94,7 @@ A full-stack application for managing todos, journals, schedules, finances, goal
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=sushant77a&theme=tokyonight&hide_border=true&border_radius=12&ring=512BD4&fire=FF8C42&currStreakLabel=7AA2F7" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=sushant77a&theme=tokyonight&hide_border=true&border_radius=12&ring=22D3EE&fire=F59E0B&currStreakLabel=22D3EE" alt="GitHub contribution streak" />
 
 <br/><br/>
 
@@ -115,7 +113,7 @@ A full-stack application for managing todos, journals, schedules, finances, goal
 **Building dependable backend systems, one production-ready decision at a time.**
 
 <a href="https://github.com/Sushant77a?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore_my_work-512BD4?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
+  <img src="https://img.shields.io/badge/Explore_my_work-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
 </a>
 
 </div>
